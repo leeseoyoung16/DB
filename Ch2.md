@@ -47,12 +47,14 @@ DBMS이 제공하는 주요기능 3가지
 ### 1. 1세대 데이터베이스 관리 시스템 : 네트워크 DBMS, 계층 DBMS
 
 (1) 네트워크 DBMS 
-![image](https://github.com/leeseoyoung16/DB/assets/101916673/d4fa31fe-ded5-46c0-9b78-895a0233bca5)
+![image](https://github.com/leeseoyoung16/DB/assets/101916673/4e667ee8-8e73-42e6-a98a-f6789c677815)
+
 - 노드와 간선을 이용한 그래프 형태로 구성하는 네트워크 데이터 모델 사용
 - 데이터베이스 구조가 복잡하고 변경하기 어려움
 
 (2) 계층 DBMS
-![image](https://github.com/leeseoyoung16/DB/assets/101916673/d35fc78a-585c-44cf-8bce-ee9939d2da93)
+![image](https://github.com/leeseoyoung16/DB/assets/101916673/b2d85b9f-f2c2-48fd-a18d-a7697d540a1a)
+
 - 데이터베이스를 트리 형태로 구성하는 계층 데이터 모델을 사용
 - 복잡한 현실 세계의 모습을 부모 자식 관계가 명확한 트리 형태로 표현하기 힘듦
 - 구조 변경이 어려움\
