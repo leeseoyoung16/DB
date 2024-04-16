@@ -58,14 +58,16 @@
 
 - E-R 다이어그램 표현 : 사각형
 
- < 사진 들어가야함! >
+![image](https://github.com/leeseoyoung16/DB/assets/101916673/22b45513-4220-4b13-b20d-3367182a4efa)
+
 
 ### 속성
   - 개체가 가지고 있는 고유한 특성
 
 - E-R 다이어그램 표현 : 타원
 
-  < 사진 들어가야함! >
+ ![image](https://github.com/leeseoyoung16/DB/assets/101916673/093145e5-8f37-4209-b111-f225423ec96d)
+
 
   < 속성 값의 개수 >
   
